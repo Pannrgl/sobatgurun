@@ -1,7 +1,5 @@
 $(function () {
-  // ==========================
-  // Mahasiswa (ASLI, JANGAN DIUBAH)
-  // ==========================
+
 
   // Tombol Tambah Mahasiswa
   $(".tombolTambahData").on("click", function () {
